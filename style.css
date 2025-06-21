@@ -124,7 +124,7 @@ main {
   order: -1;
   max-width: 18px;
 }
-.cart p {
+.cart span {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: var(--Weight700);
