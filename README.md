@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-preview-card-using-flexbox-KxBKp7CevD)
+- Live Site URL: [live site URL](https://rokuroo7.github.io/product-preview-card-component/)
 
 ## My process
 
