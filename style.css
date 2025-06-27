@@ -113,7 +113,9 @@ main {
   align-items: center;
   padding: 0.875rem;
   column-gap: 0.8rem;
+  border: none;
   border-radius: 0.5rem;
+  box-shadow: 0;
   background-color: var(--Green500);
 }
 .cart:hover {
@@ -123,6 +125,7 @@ main {
 .cart img {
   order: -1;
   max-width: 18px;
+  border-radius: 0;
 }
 .cart span {
   font-family: "Montserrat", sans-serif;
